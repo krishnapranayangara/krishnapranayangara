@@ -16,7 +16,7 @@ I am a tech enthusiast. I love learning new technologies and exploring different
 - I work on ML, NLP, and computer vision.
 - I am a full stack engineer with experience in building Applications using springboot and react.
 - Independent blog writer on Medium.
-- I have been accepted by Qubit by Qubit's Coding school to study Quantum computing by Google Quantum with a scholarship worth $1,195.
+- I have been accepted by Qubit by Qubit's Coding school to study Quantum computing by Google Quantum with a scholarship.
 - Lead Speaker at IEEE conference for paper publication.
 - Selected for Google’s build for digital India Bootcamp.
   
